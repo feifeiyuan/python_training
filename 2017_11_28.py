@@ -32,4 +32,5 @@ print(bay+"I\t"+"like\t"*3+"you")
 t = "python"
 print(t[0], t[-1]) #p n
 print(t[0:3],t[2:3]) # pyt t
-# t[0] = 's' this is error
+# t[0] = 's' this is error string can not be changed
+
